@@ -31,6 +31,7 @@ const About = () => {
         </div>
 
         <div className="col-md-2 d-none d-md-block"></div>
+
         <div className="col-md-5 col-sm-12 mb-3">
           <div className="card shadow-lg border-0 p-3">
             <h5 className="text-center mt-2">Personal Details</h5>
