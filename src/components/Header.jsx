@@ -1,3 +1,4 @@
+import tejasPdf from "../assets/tejas-portfolio-resume.pdf";
 const Header = () => {
   return (
     <header
@@ -47,7 +48,7 @@ const Header = () => {
         </li>
         <li className="nav-item">
           <a
-            href="\src\assets\tejas-portfolio-resume.pdf"
+            href={tejasPdf}
             target="_blank"
             rel="noopener noreferrer"
             className="nav-link"

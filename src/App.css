@@ -43,3 +43,14 @@ html {
   height: 100vh;
 }
 
+@media (max-width: 430px) {
+  .nav-item {
+    display: none; 
+  }
+  .nav-item:nth-child(1), 
+  .nav-item:nth-child(3), 
+  .nav-item:nth-child(6)  
+  {
+    display: block; 
+  }
+}

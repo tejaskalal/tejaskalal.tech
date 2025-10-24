@@ -1,4 +1,5 @@
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
+import heroImg from "../assets/tejas.png";
 
 const Hero = () => {
   const handleClick = (platform) => {
@@ -51,7 +52,7 @@ const Hero = () => {
         </div>
         <div className="col-md-6 col-12 text-center mt-4 mt-md-0">
           <img
-            src="\src\assets\tejas.png"
+            src={heroImg}
             alt="tejas-img"
             className="img-fluid"
             style={{ maxHeight: "380px", borderRadius: "50px" }}

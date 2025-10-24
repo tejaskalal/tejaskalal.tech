@@ -18,7 +18,7 @@ const Projects = () => {
       title: "Portfolio Website",
       description:
         "A personal portfolio website built using React.js to showcase my projects, skills, and experience. The website features a clean and modern design, responsive layout, and smooth navigation to provide an engaging user experience.",
-      sourceCode: "https://github.com/tejaskalal/portfolio",
+      sourceCode: "https://github.com/tejaskalal/tejaskalal.tech",
     },
   ];
 
