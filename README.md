@@ -18,8 +18,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # tejaskalal.tech
 
-# Tejas Kalal Portfolio
-
 This is my personal portfolio website where I showcase my skills, projects, education, and contact information. 
 
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
